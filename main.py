@@ -17,7 +17,7 @@ print("Mean loss for DDoS Attacks: $", DDoS_loss)
 label = "DDoS"
 name = "DDoS Attack"
 frequency = df[df['Type of Incident'] == 'DDoS Attack'].shape[0] / df['Year'].nunique()
-low_loss = ddos_attacks['Financial cost'].min()  # Highest financial loss of DDoS attacks
+low_loss = ddos_attacks['Financial cost'].min() 
 high_loss = ddos_attacks['Financial cost'].max()
 
 
