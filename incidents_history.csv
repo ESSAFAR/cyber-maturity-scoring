@@ -1,0 +1,18 @@
+,Bank,Type of Incident,Financial cost,Root Cause (mapped to NIST SP 53),Year
+0,Bank A,Data Breach,500000,AC-1,2023
+1,Bank B,Ransomware Attack,1200000,SC-7,2022
+2,Bank C,Phishing Attack,300000,CM-2,2023
+3,Bank D,DDoS Attack,800000,SC-5,2023
+4,Bank E,Insider Threat,700000,IA-2,2023
+5,Bank F,Malware Infection,400000,SI-2,2022
+6,Bank G,Social Engineering,600000,AT-2,2023
+7,Bank H,SQL Injection,350000,SI-7,2022
+8,Bank I,Zero-Day Exploit,900000,SI-2,2023
+9,Bank J,Supply Chain Attack,1500000,CM-8,2023
+10,Bank K,Brute Force Attack,200000,AC-7,2023
+11,Bank L,Credential Stuffing,250000,IA-5,2022
+12,Bank M,Man-in-the-Middle Attack,450000,SC-7,2023
+13,Bank N,Cross-Site Scripting (XSS),320000,CM-2,2023
+14,Bank N,DDoS Attack,700000,SC-5,2022
+15,Bank A,DDoS Attack,200000,SC-5,2023
+16,Bank J,DDoS Attack,100000,SC-5,2022
